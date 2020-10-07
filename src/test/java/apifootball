@@ -1,0 +1,8 @@
+Purpose of the project
+football-data.org provides football data and statistics (live scores, fixtures, tables, squads, lineups/subs, etc.) in a machine-readable way.
+Our free (RESTful) API in JSON representation is used by thousands of developers to power websites and mobile apps with football data.
+
+Access to the top football competitions is and will be free forever as this was the initial purpose to setup the project.
+However if you need more competitions (or in-depth data), we have several paid plans available to serve your needs.
+
+The exhaustive documentation, code samples and libraries will help you get up and running quickly.
